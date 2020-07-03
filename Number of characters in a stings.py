@@ -1,0 +1,8 @@
+#Number of characters in a stings.py
+    str1 = input("Please Enter your Own String : ")
+total = 0
+ 
+for i in str1:
+    total = total + 1
+ 
+print("Total Number of Characters in this String = ", total)
